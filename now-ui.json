@@ -1,0 +1,15 @@
+{
+	"components": {
+	    "x-551066-hello-world": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "My HW Component",
+				"icon": "document-outline",
+				"description": "Hello World basic title section",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_551066_test_he_1"
+}
