@@ -1,5 +1,4 @@
 @test/hello-world
 ===============================================
 
-
-Component Authors, provide some documentation for your users here!
+Simple 'HW' component for 'Servicenow'.
